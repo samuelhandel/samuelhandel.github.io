@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Samuel Handel"
   avatar           : "/headshot_final.jpg"
-  bio              : "I am a first year Master's student in Data Science with a Concentration in Artificial Intelligence and Machine Learning. I am interested in spatial statistics, LiDAR point clouds, and applied machine learning."
+  bio              : "I am a first year Master's student in Data Science with a Concentration in Artificial Intelligence and Machine Learning. I am interested in classical statistical models and parameter estimation methods, geospatial modeling, remote sensing, and applied machine learning."
   location         : "Norfolk, Virginia"
   email            : "shand001@odu.edu"
   links:
