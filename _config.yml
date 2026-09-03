@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Welcome to My Portfolio!"
+title                    : "Welcome to My Portfolio."
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "M.S. Student in Data Science | AI and ML "
 name                     : "Samuel Handel"
 description              : "This is a website to showcase my projects and CV."
 url                      : "https://samuelhandel.github.io"
